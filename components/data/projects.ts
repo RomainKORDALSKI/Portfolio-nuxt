@@ -17,7 +17,7 @@ const projects: Project[] = [
     taches:
       "Front-end avec React, intégration CSS avec Sass, gestion des composants, conception responsive",
     imageUrl: "/images/projets/portfolio.png",
-    siteUrl: "https://example.com/project1",
+    siteUrl: "https://romainkordalski.netlify.app/",
     githubUrl: "https://github.com/username/project1",
   },
   {
@@ -60,7 +60,7 @@ const projects: Project[] = [
     taches:
       "Développement frontend avec Nuxt.js, design responsive avec Tailwind CSS, intégration des meilleures pratiques",
     imageUrl: "/images/projets/portfolionuxt.png",
-    siteUrl: "https://pokereactrk.netlify.app/",
+    siteUrl: "https://romainkordalski.vercel.app/",
     githubUrl: "https://github.com/RomainKORDALSKI/PokeReact",
   },
   {
