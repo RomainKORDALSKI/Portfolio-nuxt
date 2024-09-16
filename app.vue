@@ -10,7 +10,7 @@ import Footer from "./components/Footer.vue";
   >
     <div>
       <!-- Navbar fixed at the top -->
-      <Navbar class="fixed bottom-0 z-50 flex sm:bottom-auto sm:top-0" />
+      <NavBar class="fixed bottom-0 z-50 flex sm:bottom-auto sm:top-0" />
 
       <!-- Main content area -->
       <main class="pt-16">
