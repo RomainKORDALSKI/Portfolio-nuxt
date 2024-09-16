@@ -1,5 +1,4 @@
 <script setup>
-import Navbar from "~/components/Navbar.vue";
 import DotPattern from "~/components/DotPattern.vue";
 import ScrollToTop from "~/components/ScrollToTop.vue";
 import Footer from "./components/Footer.vue";
