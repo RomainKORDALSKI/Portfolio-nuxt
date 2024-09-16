@@ -1,6 +1,6 @@
 <script setup lang="ts">
 // Variables
-const cvUrl = "./assets/cv.pdf"; // Chemin vers le fichier CV
+const cvUrl = "/cv/cv.pdf"; // Chemin vers le fichier CV
 const cvText = "Telecharger CV"; // Texte du bouton
 </script>
 
