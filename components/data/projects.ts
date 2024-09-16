@@ -27,7 +27,7 @@ const projects: Project[] = [
     taches:
       "Développement frontend avec Next.js, géolocalisation, création et gestion d'événements, intégration d'une carte interactive",
     imageUrl: "/images/projets/bradenor.png",
-    siteUrl: "/images/projets/bradenor.mov",
+    siteUrl: "/images/projets/bradenorvideo.mov",
     githubUrl: "https://github.com/RomainKORDALSKI/PokeReact",
   },
   {
