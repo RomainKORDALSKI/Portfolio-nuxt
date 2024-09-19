@@ -13,25 +13,37 @@ const projects: Project[] = [
     id: 1,
     title: "Portfolio",
     description:
-      "Mon premier portfolio réalisé en React et Sass, conçu au début de ma formation chez O’clock. Ce projet m'a permis de me familiariser avec la gestion de composants React et le stylisme avancé avec Sass, tout en créant une interface responsive et moderne pour présenter mes compétences et réalisations.",
+      "Mon premier portfolio réalisé en React et Sass. Conçu pour présenter mes compétences et réalisations avec une interface moderne et responsive.",
     taches:
-      "Front-end avec React, intégration CSS avec Sass, gestion des composants, conception responsive",
+      "Développement frontend, intégration CSS avec Sass, conception responsive",
     imageUrl: "/images/projets/portfolio.png",
     siteUrl: "https://romainkordalski.netlify.app/",
     githubUrl: "https://github.com/username/project1",
   },
   {
     id: 2,
-    title: "Bradenor",
-    description: `Bradenor est un projet personnel en cours de développement, conçu pour approfondir mes compétences en Next.js. Il permet aux utilisateurs de créer et de poster des événements de braderie, ainsi que de rechercher des braderies par localisation ou à l'aide d'une carte interactive. Ce projet me permet de mettre en pratique diverses fonctionnalités de Next.js, tout en intégrant des aspects de géolocalisation et de gestion d'événements.`,
+    title: "Appli de Gestion de Budget Bancaire",
+    description:
+      "Application complète de gestion de budget bancaire avec authentification, notifications, et CRUD complet. Utilisation de React, Node.js, Express, et PostgreSQL.",
     taches:
-      "Développement frontend avec Next.js, géolocalisation, création et gestion d'événements, intégration d'une carte interactive",
+      "Développement frontend et backend, gestion des notifications, sécurité",
+    imageUrl: "/images/projets/lapince.png",
+    siteUrl: "https://lapinceapi.vercel.app/",
+    githubUrl: "URL vers le dépôt GitHub du projet",
+  },
+  {
+    id: 3,
+    title: "Bradenor",
+    description:
+      "Projet de braderie en Next.js avec création d'événements et géolocalisation. Permet de poster et rechercher des événements sur une carte interactive.",
+    taches:
+      "Développement frontend, gestion d'événements, intégration de carte",
     imageUrl: "/images/projets/bradenor.png",
     siteUrl: "https://bradenor-next.vercel.app",
     githubUrl: "https://github.com/RomainKORDALSKI/PokeReact",
   },
   {
-    id: 3,
+    id: 4,
     title: "PokéReact",
     description:
       "PokéReact est mon premier projet en React, un Pokedex interactif développé avec l'API Pokémon. J'ai utilisé React pour gérer l'affichage dynamique des données, tout en intégrant Sass pour le stylisme. Ce projet m'a permis de renforcer mes compétences en développement frontend et d'explorer la gestion des appels API pour récupérer et afficher des informations en temps réel.",
@@ -42,7 +54,7 @@ const projects: Project[] = [
     githubUrl: "https://github.com/RomainKORDALSKI/PokeReact",
   },
   {
-    id: 4,
+    id: 5,
     title: "Cinéscope",
     description:
       "Cinéscope est une application développée avec Nuxt.js qui permet aux utilisateurs de rechercher des films, de consulter leurs descriptions détaillées et de visionner les bandes-annonces. Ce projet utilise l'API The Movie Database (TMDb) pour récupérer des informations sur les films et les afficher de manière interactive. Ce projet m'a permis de perfectionner mes compétences en développement avec Nuxt.js et de travailler avec des APIs externes pour fournir des contenus dynamiques.",
@@ -53,7 +65,7 @@ const projects: Project[] = [
     githubUrl: "https://github.com/RomainKORDALSKI/PokeReact",
   },
   {
-    id: 5,
+    id: 6,
     title: "Portfolio Nuxt",
     description:
       "Mon nouveau portfolio, construit avec Nuxt.js et Tailwind CSS. J'ai utilisé Nuxt.js pour la gestion du rendu côté serveur et Tailwind CSS pour un design adaptable et élégant. Ce portfolio reflète mes compétences en intégration, en design, et en développement avec des technologies actuelles.",
@@ -64,7 +76,7 @@ const projects: Project[] = [
     githubUrl: "https://github.com/RomainKORDALSKI/PokeReact",
   },
   {
-    id: 6,
+    id: 7,
     title: "Ocoffee",
     description: `Pour le projet Ocoffee, j'ai développé une boutique de café en ligne en utilisant Node.js et Express.js pour le côté serveur. PostgreSQL a été utilisé comme base de données. J'ai intégré des fonctionnalités dynamiques telles que l'ajout au panier, la modification des quantités et la suppression des articles. Le projet a également mis en œuvre des fonctionnalités de sécurité telles que le chiffrement des mots de passe et la gestion des sessions utilisateur. L'interface utilisateur a été améliorée grâce à l'utilisation de SASS pour le stylisme, offrant ainsi une expérience utilisateur agréable et moderne.`,
     taches: "Développement frontend et backend, intégration, sécurité",
