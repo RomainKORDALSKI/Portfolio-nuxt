@@ -164,7 +164,7 @@ const emits = defineEmits(["openModal"]);
 /* Limite la description à 3 lignes avant de cliquer sur "Voir plus" */
 .line-clamp-3 {
   display: -webkit-box;
-  -webkit-line-clamp: 3;
+  -webkit-line-clamp: 2;
   -webkit-box-orient: vertical;
   overflow: hidden;
 }
