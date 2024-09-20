@@ -2,6 +2,12 @@
 import DotPattern from "~/components/DotPattern.vue";
 import ScrollToTop from "~/components/ScrollToTop.vue";
 import Footer from "./components/Footer.vue";
+import { useHead } from "#imports";
+
+useHead({
+  title: "Portfolio Romain Kordalski",
+  meta: [{ name: "description", content: "Portfolio de Romain Kordalski" }],
+});
 </script>
 
 <template>

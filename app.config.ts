@@ -1,7 +1,6 @@
 export default defineAppConfig({
   profilePicture: "/images/image2.jpeg",
   footerName: "Romain Kordalski",
-  openGraphImage: "https://canvas.hrcd.fr/social-preview.jpg",
   socials: {
     github: "https://github.com/RomainKORDALSKI",
     linkedin: "https://www.linkedin.com/in/romain-kordalski/",
