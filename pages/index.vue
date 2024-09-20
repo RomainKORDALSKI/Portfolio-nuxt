@@ -35,8 +35,8 @@ import { stacks } from "../components/data/stacks";
           >
             <p>
               Bonjour, je suis Romain Kordalski, un développeur web full stack
-              passionné par les nouvelles technologies et et récemment formé à
-              l'école O'clock..
+              passionné par les nouvelles technologies et récemment formé à
+              l'école O'clock.
             </p>
           </h1>
 
