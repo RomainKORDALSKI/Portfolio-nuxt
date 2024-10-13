@@ -44,7 +44,7 @@
           <div class="mt-8 flex justify-center">
             <SpotlightButton rounded>
               <a
-                href="/cv.pdf"
+                href="/cv/cv.pdf"
                 download
                 aria-label="Télécharger mon CV"
                 class="white-gradient relative flex items-center justify-center transition-all duration-200 p-3"
