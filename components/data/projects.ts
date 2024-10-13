@@ -10,19 +10,8 @@ export interface Project {
 
 const projects: Project[] = [
   {
-    id: 1,
-    title: "Portfolio",
-    description:
-      "Mon premier portfolio réalisé en React et Sass. Conçu pour présenter mes compétences et réalisations avec une interface moderne et responsive.",
-    taches:
-      "Développement frontend, intégration CSS avec Sass, conception responsive",
-    imageUrl: "/images/projets/portfolio.png",
-    siteUrl: "https://romainkordalski.netlify.app/",
-    githubUrl: "https://github.com/username/project1",
-  },
-  {
     id: 2,
-    title: "Appli de Gestion de Budget Bancaire",
+    title: "LaPince",
     description:
       "Application complète de gestion de budget bancaire avec authentification, notifications, et CRUD complet. Utilisation de React, Node.js, Express, et PostgreSQL.",
     taches:
@@ -32,7 +21,18 @@ const projects: Project[] = [
     githubUrl: "URL vers le dépôt GitHub du projet",
   },
   {
-    id: 3,
+    id: 1,
+    title: "CV Interactif",
+    description:
+      "Site web interactif permettant de présenter mon CV et ma lettre de motivation de manière dynamique. Utilisation de Next.js, Tailwind pour le design responsive, et intégration d'animation.",
+    taches:
+      "Conception et développement frontend, intégration d'animations",
+    imageUrl: "/images/projets/cvinteractif.png",
+    siteUrl: "https://cv-kordalski-interactif.vercel.app/",
+    githubUrl: "URL vers le dépôt GitHub du projet",
+  },
+  {
+    id: 4,
     title: "Bradenor",
     description:
       "Projet de braderie en Next.js avec création d'événements et géolocalisation. Permet de poster et rechercher des événements sur une carte interactive.",
@@ -43,7 +43,18 @@ const projects: Project[] = [
     githubUrl: "https://github.com/RomainKORDALSKI/PokeReact",
   },
   {
-    id: 4,
+    id: 8,
+    title: "Portfolio Nuxt",
+    description:
+      "Mon nouveau portfolio, construit avec Nuxt.js et Tailwind CSS. J'ai utilisé Nuxt.js pour la gestion du rendu côté serveur et Tailwind CSS pour un design adaptable et élégant. Ce portfolio reflète mes compétences en intégration, en design, et en développement avec des technologies actuelles.",
+    taches:
+      "Développement frontend avec Nuxt.js, design responsive avec Tailwind CSS, intégration des meilleures pratiques",
+    imageUrl: "/images/projets/portfolionuxt.png",
+    siteUrl: "https://romainkordalski.vercel.app/",
+    githubUrl: "https://github.com/RomainKORDALSKI/PokeReact",
+  },
+  {
+    id: 5,
     title: "PokéReact",
     description:
       "PokéReact est mon premier projet en React, un Pokedex interactif développé avec l'API Pokémon. J'ai utilisé React pour gérer l'affichage dynamique des données, tout en intégrant Sass pour le stylisme. Ce projet m'a permis de renforcer mes compétences en développement frontend et d'explorer la gestion des appels API pour récupérer et afficher des informations en temps réel.",
@@ -54,7 +65,7 @@ const projects: Project[] = [
     githubUrl: "https://github.com/RomainKORDALSKI/PokeReact",
   },
   {
-    id: 5,
+    id: 6,
     title: "Cinéscope",
     description:
       "Cinéscope est une application développée avec Nuxt.js qui permet aux utilisateurs de rechercher des films, de consulter leurs descriptions détaillées et de visionner les bandes-annonces. Ce projet utilise l'API The Movie Database (TMDb) pour récupérer des informations sur les films et les afficher de manière interactive. Ce projet m'a permis de perfectionner mes compétences en développement avec Nuxt.js et de travailler avec des APIs externes pour fournir des contenus dynamiques.",
@@ -65,15 +76,15 @@ const projects: Project[] = [
     githubUrl: "https://github.com/RomainKORDALSKI/PokeReact",
   },
   {
-    id: 6,
-    title: "Portfolio Nuxt",
+    id: 3,
+    title: "Portfolio",
     description:
-      "Mon nouveau portfolio, construit avec Nuxt.js et Tailwind CSS. J'ai utilisé Nuxt.js pour la gestion du rendu côté serveur et Tailwind CSS pour un design adaptable et élégant. Ce portfolio reflète mes compétences en intégration, en design, et en développement avec des technologies actuelles.",
+      "Mon premier portfolio réalisé en React et Sass. Conçu pour présenter mes compétences et réalisations avec une interface moderne et responsive.",
     taches:
-      "Développement frontend avec Nuxt.js, design responsive avec Tailwind CSS, intégration des meilleures pratiques",
-    imageUrl: "/images/projets/portfolionuxt.png",
-    siteUrl: "https://romainkordalski.vercel.app/",
-    githubUrl: "https://github.com/RomainKORDALSKI/PokeReact",
+      "Développement frontend, intégration CSS avec Sass, conception responsive",
+    imageUrl: "/images/projets/portfolio.png",
+    siteUrl: "https://romainkordalski.netlify.app/",
+    githubUrl: "https://github.com/username/project1",
   },
   {
     id: 7,

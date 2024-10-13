@@ -21,7 +21,9 @@ export default defineNuxtConfig({
     icons: ["heroicons", "lucide"],
   },
 
-  css: ["./assets/style/main.css"],
+  css: ["./assets/style/main.css",
+    "vue3-carousel/dist/carousel.css"
+  ],
 
   svgo: {
     autoImportPath: "./assets/logo",

@@ -38,54 +38,7 @@
 
         <!-- Personal Information -->
         <div class="mt-12 max-w-3xl text-lg antialiased text-white/60">
-          <p>
-            Je m’appelle Romain Kordalski, j’ai 31 ans et je suis un développeur
-            web full stack en pleine transition professionnelle. Je suis
-            passionné par le web et les nouvelles technologies.
-          </p>
-
-          <p class="mt-4">
-            J’ai commencé ma carrière professionnelle dans des métiers manuels,
-            j’étais cariste, opérateur de production, et aussi
-            horticulteur/maraîcher. J’ai toujours su faire preuve de rigueur et
-            de précision, d’autonomie mais aussi d’adaptabilité à différents
-            milieux. Ces qualités je les utilise également aujourd’hui dans mon
-            travail de développeur.
-          </p>
-
-          <p class="mt-4">
-            Ma formation à l’école O’clock m’a permis de me spécialiser dans des
-            technologies en développement web tels que React, Next.js, Nuxt.js,
-            Vue.js, Tailwind, Sass, postgresql. J’ai toujours montré de la
-            curiosité pour l’apprentissage. J’ai mené des projets durant ma
-            formation, ou en parallèle de celle-ci afin de perfectionner mes
-            compétences et de me tenir informé des nouvelles tendances du
-            développement.
-          </p>
-
-          <p class="mt-4">
-            D’ici quelques semaines, je commencerai un stage en tant que
-            développeur front-end, avec une spécialisation sur Nuxt.js et
-            Vue.js, domaine dans lequel j’aspire à acquérir plus de compétences.
-            Je considère qu’il s’agit d’une nouvelle opportunité pour moi de
-            tester ce que j’ai appris jusqu’à présent et continuer à approfondir
-            des connaissances prometteuses.
-          </p>
-
-          <p class="mt-4">
-            En dehors du code, je suis une personne simple qui sait apprécier la
-            vie. J’aime passer du temps avec ma famille, et je suis passionné
-            par le bricolage. J’ai rénové ma maison en suivant des tutoriels, ce
-            qui m'a permis de montrer à quel point je suis autonome et
-            persévérant.
-          </p>
-
-          <p class="mt-4">
-            Je suis à la recherche active d’une opportunité en développement Web
-            qui me permettrait de mettre en avant mon experience et ma forte
-            motivation, si vous avez ce que je cherche, n’hésitez pas à me
-            contacter pour discuter!
-          </p>
+<p> Je m'appelle Romain Kordalski, j'ai 31 ans et je suis développeur web full stack. Depuis tout jeune, j'ai été fasciné par l'informatique et le développement. À 14 ans, j'ai découvert la programmation à travers les tutoriels du "Site du Zéro", et dès cet instant, je savais que le code jouerait un rôle important dans ma vie. Cependant, mon parcours professionnel m'a initialement dirigé vers d'autres horizons, mais cette passion ne m'a jamais quitté. Aujourd'hui, après une reconversion réussie, je suis pleinement engagé dans ce que j'aime faire : coder. </p> <p class="mt-4"> Avant de plonger dans le développement, j'ai travaillé dans des métiers manuels tels que cariste, opérateur de production et horticulteur. Ces expériences m'ont permis de développer des compétences précieuses comme la rigueur, l'adaptabilité et l'autonomie. Ce sont des qualités que j'utilise au quotidien dans mon travail de développeur, où chaque ligne de code demande précision et réflexion. </p> <p class="mt-4"> Après avoir suivi une formation intensive à l'école O'Clock, où je me suis spécialisé dans des technologies modernes telles que React, Next.js, Vue.js, Nuxt.js, Tailwind et PostgreSQL, j'ai découvert à quel point l'écosystème du web est vaste et en constante évolution. Mais ce n'est pas uniquement la formation qui m'a forgé : c'est aussi l'expérience pratique, les projets personnels et les défis que je me suis imposés en parallèle, qui m'ont permis de réellement maîtriser ces outils. </p> <p class="mt-4"> Actuellement en stage en tant que développeur front-end, je me spécialise sur Nuxt.js et Vue.js, ce qui m'a permis de travailler sur des projets complexes et d'intégrer la dynamique d'une équipe de développement en entreprise. J'ai ainsi pu découvrir les différentes facettes du travail en entreprise : la collaboration avec des équipes pluridisciplinaires, la gestion de projets à grande échelle, et les défis techniques quotidiens. Cette immersion m'a non seulement permis de solidifier mes compétences, mais aussi de me donner encore plus envie de travailler dans ce domaine. </p> <p class="mt-4"> Être développeur junior sur un marché compétitif n'est pas simple, mais je suis convaincu que ma capacité à apprendre rapidement et à m'adapter fait la différence. Je prends le temps de comprendre les problématiques, d'optimiser mon code et d'explorer de nouveaux frameworks. Ma passion pour l'apprentissage continu me pousse à toujours aller plus loin et à ne jamais me reposer sur mes acquis. </p> <p class="mt-4"> Je consacre une grande partie de mon temps libre à suivre les dernières avancées technologiques et à développer des projets personnels. Cela me permet de rester à jour et de toujours améliorer mes compétences. Mon objectif n'est pas seulement d'obtenir un poste, mais de grandir dans ce métier, d'apporter de la valeur à l'entreprise dans laquelle je travaille et de continuer à apprendre chaque jour. </p> <p class="mt-4"> Si vous êtes à la recherche d'un développeur web motivé, passionné et désireux de se surpasser, je serais ravi de discuter de la manière dont je peux contribuer à vos projets. </p>
 
           <!-- CV Download Button -->
           <div class="mt-8 flex justify-center">
