@@ -76,10 +76,10 @@ import { stacks } from "../components/data/stacks";
             />
           </div>
         </div>
-        <Divider />
+        <!-- <Divider />
 
         <HomeProjectSlider />
-        <Divider />
+        <Divider /> -->
         <!-- Buttons Section: Projets & Contact -->
         <div class="flex flex-row gap-4 mt-12">
           <!-- Button Projets -->
